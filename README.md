@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="256" height="256" alt="orbit-logo" src="https://github.com/user-attachments/assets/32df77dc-08c2-45ad-bae1-1bdf858226a3" />
-
-# Orbit
+# Orbit <img width="25" height="23" alt="orbit-logo" src="https://github.com/user-attachments/assets/32df77dc-08c2-45ad-bae1-1bdf858226a3" />
 
 **Every Redrum app, one launcher.**
 
