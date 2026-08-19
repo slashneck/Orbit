@@ -37,22 +37,6 @@ catalogue is whatever our manifest lists, and nothing else.
 - **Updates** - all inside Orbit itself. Automatically checks for updates and
   patches on users command.
 
-## Screenshots
-
-<div align="center">
-
-<img width="1280" height="820" alt="library" src="https://github.com/user-attachments/assets/75eed39b-16c6-4dae-9d84-c7624516f716" />
-
-<em>Library — search, filter, and install state at a glance</em>
-
-<br><br>
-
-<img width="1280" height="820" alt="app-detail" src="https://github.com/user-attachments/assets/f8cad387-c0a7-43e2-9bc7-eaa51386df4c" />
-
-<em>App page — screenshots, version history, requirements and install location</em>
-
-</div>
-
 ## Install
 
 Grab the latest `Orbit-Setup-<version>.exe` from
